@@ -60,3 +60,21 @@ Happy coding! 🖥️
 ```
 
 Replace `yourusername` with your actual username or organization name, and `yourname@example.com` with your contact email. This README provides a brief, attractive, and informative overview of your keylogger project.
+```
+
+## Output 🔍
+
+```
+Key.enter pressed
+'a' pressed
+'b' pressed
+Key.space pressed
+Key.shift_r pressed
+Key.shift_r pressed
+Key.shift_r pressed
+'a' pressed
+'c' pressed
+'d' pressed
+```
+
+You can copy and paste this code and output into your GitHub README file. Be sure to format it as a code block for better readability.
