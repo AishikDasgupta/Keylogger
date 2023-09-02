@@ -76,5 +76,3 @@ Key.shift_r pressed
 'c' pressed
 'd' pressed
 ```
-
-You can copy and paste this code and output into your GitHub README file. Be sure to format it as a code block for better readability.
